@@ -71,7 +71,7 @@ Algunos de los insights obtenidos en este análisis son:
 Algunas de las visualizaciones generadas incluyen:
 
 Productos más vendidos:
-https://github.com/alvaroperez1804/Retail_Analysis/blob/main/productos_mas_vendidos.png
+![Productos mas vendidos](https://github.com/alvaroperez1804/Retail_Analysis/blob/main/productos_mas_vendidos.png)
 Ventas por país:
 
 Ventas mensuales:
