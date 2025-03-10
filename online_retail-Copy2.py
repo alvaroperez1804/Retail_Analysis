@@ -73,7 +73,6 @@ import matplotlib.pyplot as plt
 df = pd.read_excel("Online Retail.xlsx")
 
 df.head(100)
-
 df.shape
 
 print(df.dtypes)                                                                 #verificar si cada columna tiene el el formato correcto
@@ -135,9 +134,13 @@ df = df[(df["Quantity"] >= 0)]
 print("Quantity limpiado 100%")
 print(df["Quantity"].describe())
 
-sns.boxplot(df["UnitPrice"])
-plt.title("Buscando outliers en el UnitPrice")
-plt.show()       #veo muchos outliers debemos eliminarlos   ojo las graficas retrasan la lectura
+plt.style.use('dark_background')
+
+sns.boxplot(df["UnitPrice"], palette=["#00FFFF", "#FF00FF", "#00FF00", "#FF4500"])
+
+plt.title("Buscando outliers en el UnitPrice", fontsize=16, color='white', fontweight='bold')
+
+plt.show()      #veo muchos outliers debemos eliminarlos   ojo las graficas retrasan la lectura
 
 Q1 = df["UnitPrice"].quantile(0.25)
 Q3 = df["UnitPrice"].quantile(0.75)                                                        
