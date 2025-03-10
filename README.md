@@ -75,11 +75,11 @@ Productos más vendidos:
 Ventas por país:
 ![Paises mas vendidos](https://github.com/alvaroperez1804/Retail_Analysis/blob/main/paises_mas_vendidos.png)
 Ventas mensuales: 
-![Ventas por mes](
+![Ventas por mes](https://github.com/alvaroperez1804/Retail_Analysis/blob/main/ventas.png)
 
 📌 Conclusión
 
-Este análisis proporciona información valiosa sobre las tendencias de compra en una tienda online. Los hallazgos pueden ser utilizados para mejorar la gestión del inventario, optimizar campañas de marketing y aumentar la rentabilidad del negocio.
+Este análisis proporciona información valiosa sobre las tendencias de compra en una tienda online. Los hallazgos pueden ser utilizados para mejorar la gestión del inventario, optimizar campañas de marketing y aumentar la rentabilidad del negocio. No se encontraron correlaciones claras, debemos obtener mas información de las tiendas.
 
 🔹 Próximos pasos: Se podría extender el análisis con modelos de predicción de demanda o segmentación de clientes usando técnicas de Machine Learning.
 
