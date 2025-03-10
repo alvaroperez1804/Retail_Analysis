@@ -73,10 +73,9 @@ Algunas de las visualizaciones generadas incluyen:
 Productos más vendidos:
 ![Productos mas vendidos](https://github.com/alvaroperez1804/Retail_Analysis/blob/main/productos_mas_vendidos.png)
 Ventas por país:
-
-Ventas mensuales:
-
-(Si deseas incluir imágenes en GitHub, súbelas a tu repositorio y coloca la URL correcta en ruta_a_la_imagenX.png.)
+![Paises mas vendidos](https://github.com/alvaroperez1804/Retail_Analysis/blob/main/paises_mas_vendidos.png)
+Ventas mensuales: 
+![Ventas por mes](
 
 📌 Conclusión
 
